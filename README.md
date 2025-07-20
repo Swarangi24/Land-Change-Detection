@@ -1,5 +1,3 @@
-# Land-Change-Detection
-
 # Land Change Detection using Multi-Band Raster Data from Sentinel-2 with XGBoost
 
 ## Overview
